@@ -78,6 +78,14 @@ div.campo > label {
     display: none;
 }
 
+div.campo > i {
+    color: white;
+    background-color: black;
+    font-size: 2em;
+    width: 40px;
+    padding: 5px;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
